@@ -13,7 +13,9 @@ A collection of reusable [Claude Code](https://docs.anthropic.com/en/docs/claude
 
 ### Personal
 
-_Coming soon._
+| Skill | Description |
+|-------|-------------|
+| [deploy-website](personal/deploy-website/) | Build the Hugo personal website and deploy to GitHub Pages. Runs Hugo build, syncs output to the GitHub Pages repo, and pushes — with a diff review before deploying. |
 
 ## Installation
 

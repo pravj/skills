@@ -1,0 +1,11 @@
+{
+  "name": "deploy-website",
+  "version": "1.0.0",
+  "description": "Build Hugo site and deploy to GitHub Pages (pravj.github.io)",
+  "author": {
+    "name": "Pravendra Singh",
+    "url": "https://github.com/pravj"
+  },
+  "repository": "https://github.com/pravj/skills",
+  "license": "MIT"
+}

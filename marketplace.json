@@ -9,6 +9,11 @@
       "name": "transcribe-meeting",
       "description": "Transcribe audio recordings and generate structured meeting notes with per-topic detail files",
       "source": "https://github.com/pravj/skills/tree/main/work/transcribe-meeting"
+    },
+    {
+      "name": "deploy-website",
+      "description": "Build Hugo site and deploy to GitHub Pages (pravj.github.io)",
+      "source": "https://github.com/pravj/skills/tree/main/personal/deploy-website"
     }
   ]
 }
