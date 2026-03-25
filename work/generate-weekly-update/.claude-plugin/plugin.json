@@ -1,0 +1,11 @@
+{
+  "name": "generate-weekly-update",
+  "version": "1.0.0",
+  "description": "Generate weekly update documents in .docx format following established structure and formatting",
+  "author": {
+    "name": "Pravendra Singh",
+    "url": "https://github.com/pravj"
+  },
+  "repository": "https://github.com/pravj/skills",
+  "license": "MIT"
+}

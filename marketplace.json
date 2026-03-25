@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "generate-weekly-update",
+      "description": "Generate weekly update documents in .docx format following established structure and formatting",
+      "source": "https://github.com/pravj/skills/tree/main/work/generate-weekly-update"
+    },
+    {
+      "name": "transcribe-meeting",
+      "description": "Transcribe audio recordings and generate structured meeting notes with per-topic detail files",
+      "source": "https://github.com/pravj/skills/tree/main/work/transcribe-meeting"
+    }
+  ]
+}
